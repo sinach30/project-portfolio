@@ -1,2 +1,2 @@
 # project-portfolio
-My college poject
+My college project
